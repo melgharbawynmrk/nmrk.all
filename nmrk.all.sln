@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{3A43CB73-91DD-42F1-95A6-C8D97C70FDA5}"
+	ProjectSection(SolutionItems) = preProject
+		01- Clone Repositories.ps1 = 01- Clone Repositories.ps1
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nmrk.project.a", "nmrk.project.a\nmrk.project.a.csproj", "{71713A14-0727-4939-9B44-B0FA5D38FCF2}"
 EndProject
