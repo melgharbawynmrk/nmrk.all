@@ -1,5 +1,6 @@
 $env:GIT_REDIRECT_STDERR = '2>&1'
 
+cd ..
 cd nmrk.project.a/
 git clone https://github.com/melgharbawynmrk/nmrk.project.a.git .
 

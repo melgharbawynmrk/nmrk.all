@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{3A43CB73-91DD-42F1-95A6-C8D97C70FDA5}"
 	ProjectSection(SolutionItems) = preProject
-		01- Clone Repositories.ps1 = 01- Clone Repositories.ps1
+		Scripts\01- Clone Repositories.ps1 = Scripts\01- Clone Repositories.ps1
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nmrk.project.a", "nmrk.project.a\nmrk.project.a.csproj", "{71713A14-0727-4939-9B44-B0FA5D38FCF2}"
@@ -13,6 +13,11 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nmrk.project.b", "nmrk.project.b\nmrk.project.b.csproj", "{699AA154-1774-470E-8491-1AB25C8C5002}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nmrk.project.shared", "nmrk.project.shared\nmrk.project.shared.csproj", "{D7D522C7-55F6-4B96-9402-7748398516AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{99C12789-F3F9-4016-81E3-3FCED90F38F5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
